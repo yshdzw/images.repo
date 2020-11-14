@@ -1,1 +1,1 @@
-# images.github.io/markdown
+# images/markdown
