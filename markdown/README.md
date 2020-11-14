@@ -1,1 +1,1 @@
-# images/markdown
+# images.repo/markdown
